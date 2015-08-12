@@ -1,4 +1,4 @@
-## The example of create the native HHVM module
+## The example of the create native HHVM module
 
 *func*  folder - example of the simple interface, use functions
 
