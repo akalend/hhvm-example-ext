@@ -1,6 +1,7 @@
 ## The example of create the native HHVM module
 
 *func*  folder - example of the simple interface, use functions
+
 *class* folder - example of the class interface
 
 ### Installation
